@@ -39,7 +39,7 @@ export default function About() {
                     </span>
                     <br />
                     <span className="font-serif text-[9px] text-gray-500">
-                      2023年4月〜2026年3月（卒業予定）
+                      2023年4月〜2026年3月 卒業
                     </span>
                   </li>
                 </ul>
@@ -50,8 +50,8 @@ export default function About() {
               src: "/bag.svg",
               detail: (
                 <ul className="text-[10px] text-gray-500 list-disc ml-6 mt-1">
-                  <li>HPデザイン・広告デザインの制作経験</li>
                   <li>起業活動を通したプロジェクト管理経験</li>
+                  <li>HPデザイン・広告デザインの制作経験</li>
                 </ul>
               ),
             },
